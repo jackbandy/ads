@@ -246,12 +246,12 @@ to the second later.</p>
 <li><p> <m>p \land  \neg  q \land  r \land  \neg  p</m></p></li>
 </ol></p>
 </statement>
-<answer component="im"><p>
+<answer component="im">
 <ol marker="(a)" cols="2">
 <li><p> <m>((p \lor ( \neg q)) \lor  )r\land ( \neg p)</m></p></li>
 <li><p> <m>((p \land ( \neg  q)) \land  r )\land  (\neg  p)</m></p></li>
 </ol>
-</answer></p>
+</answer>
 </exercise>
 <exercise number="5">
 <statement><p>Determine the number of rows in the truth table of a proposition containing four variables <m>p, q, r, \textrm{ and }   s</m>.</p>
